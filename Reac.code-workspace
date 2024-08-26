@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "React-Weather-App-main",
+			"path": "."
+		},
+		{
+			"name": "build",
+			"path": "../build"
+		}
+	],
+	"settings": {}
+}
